@@ -1,0 +1,46 @@
+[
+    {
+        "Faculty ID": 103,
+        "Faculty Name": "Karthik",
+        "Department": "IT",
+        "Publications": 35,
+        "H_index": 21,
+        "Budget": 120000,
+        "Collaboration": 22,
+        "Research Score": 26.9,
+        "Grant": 120000
+    },
+    {
+        "Faculty ID": 101,
+        "Faculty Name": "Arun",
+        "Department": "CSE",
+        "Publications": 30,
+        "H_index": 18,
+        "Budget": 150000,
+        "Collaboration": 20,
+        "Research Score": 23.4,
+        "Grant": 112500.0
+    },
+    {
+        "Faculty ID": 102,
+        "Faculty Name": "Meena",
+        "Department": "ECE",
+        "Publications": 22,
+        "H_index": 15,
+        "Budget": 95000,
+        "Collaboration": 18,
+        "Research Score": 18.7,
+        "Grant": 47500.0
+    },
+    {
+        "Faculty ID": 104,
+        "Faculty Name": "Priya",
+        "Department": "CSE",
+        "Publications": 18,
+        "H_index": 12,
+        "Budget": 80000,
+        "Collaboration": 15,
+        "Research Score": 15.3,
+        "Grant": 40000.0
+    }
+]
